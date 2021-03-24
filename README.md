@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kibolho)](https://github.com/kibolho)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abilioazevedo/)](https://www.linkedin.com/in/abilioazevedo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abilio10@gmail.com)](mailto:abilio10@gmail.com)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kibolho/my-stack)
 
 ### Hellooo! 👋 Welcome to my profile
 
